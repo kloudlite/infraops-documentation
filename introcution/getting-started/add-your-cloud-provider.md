@@ -16,14 +16,14 @@ If you already have an existing kloudlite account you can create cloud providers
 {% tab title="AWS" %}
 ### **Create a New Cloud Provider**:
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-01-26 at 8.36.31 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-01-26 at 8.36.31 AM.png" alt=""><figcaption></figcaption></figure>
 
 * Give relevant name to cloud provider
 * Choose 'Amazon Web Services' and enter your Account ID and **proceed** to generate cloudformation stack URL.
 
 ### **Create CloudFormation Stack**
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-01-26 at 8.37.00 AM (2).png" alt=""><figcaption><p>Open the URL generated to create cloud formation stack in your AWS account.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-01-26 at 8.37.00 AM (2).png" alt=""><figcaption><p>Open the URL generated to create cloud formation stack in your AWS account.</p></figcaption></figure>
 
 * Copy the provided URL for cloud-formation stack creation.
 * Open this URL in a browser where you are already logged into your AWS account/sub-account.
@@ -55,11 +55,11 @@ It might take a few minutes for each of these APIs to be enabled. Once you can c
 
 First, go to your [Google Cloud console](https://console.cloud.google.com/) and navigate to **IAM & Admin** -> **Service Accounts**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Select Create Service Account
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 After naming your service account, grant the service account these three permissions:
 
@@ -73,15 +73,15 @@ Select **Done** to create the service account.
 
 Once the service account has been created, under **Actions** select **Manage keys**.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Select **ADD KEY** -> **Create new key** and then choose **JSON** as your key type. After creation, your JSON key will automatically be downloaded as a file. You will need this key later.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Create Cloud Provider
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-01-26 at 8.36.31 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-01-26 at 8.36.31 AM.png" alt=""><figcaption></figcaption></figure>
 
 * Give relevant name to cloud provider
 * Choose 'Google Cloud Provider' & Upload the generated key and **proceed**
