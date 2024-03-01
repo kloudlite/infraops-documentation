@@ -44,4 +44,4 @@ Kloudlite provides a unique way to access the services running inside kubernetes
 
 Read more about `wireguard` below:
 
-[wireguard-connect.md](getting-started/wireguard-connect.md "mention")
+[wireguard-connect.md](../cluster-details/wireguard-connect.md "mention")
