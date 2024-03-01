@@ -6,10 +6,13 @@ Install kli tool to access your clusters
 
 ```
 # Install kli
-curl https://kli.devc.kloudlite.io/v1.0.5-nightly! | bash
+curl 'https://kl.kloudlite.io/kloudlite@v1.0.4-nightly?select=kli' | bash
 
 # Login
 kli auth login
+
+# Choose account
+kli use account
 
 # Choose Cluster
 kli use cluster
