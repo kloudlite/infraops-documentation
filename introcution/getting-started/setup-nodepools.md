@@ -1,5 +1,7 @@
 # Setup NodePools
 
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-21 at 11.23.33 AM.png" alt=""><figcaption></figcaption></figure>
+
 1. **Select Nodepool Type**
    * **On-Demand**: Ideal for stateful workloads.
    * **Spot**: Cost-effective for stateless workloads.

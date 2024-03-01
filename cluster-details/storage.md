@@ -6,7 +6,9 @@
 {% tab title="AWS" %}
 **Storage Classes**
 
-**Snapshots - coming soon**
+**Snapshots**&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-21 at 11.49.34 AM (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="GCP (Coming Soon)" %}

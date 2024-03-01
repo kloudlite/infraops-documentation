@@ -16,21 +16,14 @@
 
 * [Storage](cluster-details/storage.md)
 * [VPN](cluster-details/vpn.md)
-* [Ingress](cluster-details/ingress.md)
 * [Domain Management](cluster-details/domain-management.md)
-* [SSL Management](cluster-details/ssl-management.md)
 * [LoadBalancer](cluster-details/loadbalancer.md)
-
-## Advanced Features
-
-* [Cluster Autoscaling](advanced-features/cluster-autoscaling.md)
-* [Spot Instances](advanced-features/spot-instances.md)
-* [VPN with Network Policy](advanced-features/vpn-with-network-policy.md)
+* [Ingress](cluster-details/ingress.md)
+* [Nodepools](cluster-details/nodepools.md)
 
 ## References
 
-* [API Reference](references/api-reference.md)
-* [FAQ](references/faq.md)
 * [Roadmap](references/roadmap.md)
-* [Github](references/github.md)
 * [Help & Support](references/help-and-support.md)
+* [FAQ](https://kloudlite.io/help-and-support)
+* [Github](https://github.com/kloudlite/)

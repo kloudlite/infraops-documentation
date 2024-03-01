@@ -10,7 +10,7 @@
 
 Kloudlite clusters are created and managed using kubernetes operators. We can declaratively create and update your clusters as any kubernetes resources.
 
-You can refer to our [API reference](../references/api-reference.md) for complete list of resources supported.
+You can refer to our [API reference](broken-reference) for complete list of resources supported.
 
 
 

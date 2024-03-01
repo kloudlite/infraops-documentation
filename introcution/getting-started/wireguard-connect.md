@@ -5,8 +5,11 @@ Kloudlite provides a unique way to access the services running inside kubernetes
 ### Connect using cli
 
 ```
+# choose cluster
+kli use cluster
+
 # Connect your device to the existing cluster
-kli --cluster-name=<cluster-name> vpn connect
+sudo kli vpn start
 
 # Test connection
 curl <http-service-name>.<namespace>.svc.cluster.local

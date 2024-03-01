@@ -1,5 +1,9 @@
 # Create your first cluster
 
+&#x20;       &#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-21 at 11.13.08 AM.png" alt=""><figcaption></figcaption></figure>
+
 Creating your cluster is super easy and quick
 
 1. **Navigate to Clusters Section**
