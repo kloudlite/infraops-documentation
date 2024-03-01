@@ -61,6 +61,9 @@ sudo kli vpn start
 # Test connection
 curl <http-service-name>.<namespace>.svc.cluster.local
 
+# check the vpn status
+sudo kli vpn status
+
 # Disconnect from the vpn
 sudo kli vpn stop
 ```
