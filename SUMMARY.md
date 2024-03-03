@@ -27,3 +27,7 @@
 * [Help & Support](references/help-and-support.md)
 * [FAQ](https://kloudlite.io/help-and-support)
 * [Github](https://github.com/kloudlite/)
+
+## Access
+
+* [KLI access](access/kli-access.md)
