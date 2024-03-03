@@ -11,7 +11,6 @@
   * [Setup NodePools](introcution/getting-started/setup-nodepools.md)
   * [Access your first cluster](introcution/getting-started/access-your-first-cluster.md)
   * [Create Helm Charts](introcution/getting-started/create-helm-charts.md)
-* [Infrastructure As Code](introcution/infrastructure-as-code.md)
 
 ## Cluster Details
 
