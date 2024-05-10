@@ -16,14 +16,14 @@ If you already have an existing kloudlite account you can create cloud providers
 {% tab title="AWS" %}
 ### **Create a New Cloud Provider**:
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-01-26 at 8.36.31 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-05-10 at 3.34.22 PM.png" alt=""><figcaption></figcaption></figure>
 
 * Give relevant name to cloud provider
-* Choose 'Amazon Web Services' and enter your Account ID and **proceed** to generate cloudformation stack URL.
+* Choose 'Amazon Web Services'  and **proceed** to generate cloudformation stack URL.
 
 ### **Create CloudFormation Stack**
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-01-26 at 8.37.00 AM (2).png" alt=""><figcaption><p>Open the URL generated to create cloud formation stack in your AWS account.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-05-10 at 3.35.36 PM.png" alt=""><figcaption></figcaption></figure>
 
 * Copy the provided URL for cloud-formation stack creation.
 * Open this URL in a browser where you are already logged into your AWS account/sub-account.
@@ -33,7 +33,7 @@ If you already have an existing kloudlite account you can create cloud providers
 
 ### **Verification**
 
-* Once the stack installation is complete, Kloudlite will gain access to your AWS account.
+* Once the stack installation is complete, you can fill access key and secret key from aws account, Kloudlite will gain access to your AWS account.
 * Verify this connection in your Kloudlite dashboard to ensure everything is set up correctly.
 {% endtab %}
 
@@ -55,11 +55,11 @@ It might take a few minutes for each of these APIs to be enabled. Once you can c
 
 First, go to your [Google Cloud console](https://console.cloud.google.com/) and navigate to **IAM & Admin** -> **Service Accounts**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Select Create Service Account
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 After naming your service account, grant the service account these three permissions:
 
@@ -97,4 +97,4 @@ Feel free to suggest your favourite providers!! Drop your suggestions [here](htt
 {% endtab %}
 {% endtabs %}
 
-With your cloud provider creation completed, you are now ready to [create your first cluster](create-your-first-cluster.md) using Kloudlite!
+With your cloud provider creation completed, you are now ready to [create your first cluster](create-your-first-kloudlite-cluster.md) using Kloudlite!

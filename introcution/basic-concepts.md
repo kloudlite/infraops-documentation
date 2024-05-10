@@ -10,7 +10,7 @@ A cloud provider delivers a suite of cloud computing services that include provi
 
 Kubernetes clusters are collections of nodes (servers) that run containerized applications. They provide a robust environment for deploying, scaling, and managing applications across a distributed compute infrastructure, ensuring high availability and efficient resource utilization.
 
-[create-your-first-cluster.md](getting-started/create-your-first-cluster.md "mention")
+[create-your-first-kloudlite-cluster.md](getting-started/create-your-first-kloudlite-cluster.md "mention")
 
 ## **NodePools**
 
@@ -23,6 +23,24 @@ Within the Kloudlite platform, NodePools facilitate the organization of nodes in
 Helm charts are packages that facilitate the definition, installation, and upgrade of Kubernetes applications. They package together Kubernetes resources such as deployments, services, and ingresses, making it easier to deploy and manage complex applications across Kubernetes clusters. Kloudlite supports the deployment and configuration of Helm charts directly through its dashboard, streamlining application deployment and management processes.
 
 [create-helm-charts.md](getting-started/create-helm-charts.md "mention")
+
+## Build your own kubernetes cluster
+
+The "Build Your Own Kubernetes" feature empowers users to manually construct their own Kubernetes clusters.
+
+[build-your-own-kubernetes-cluster.md](getting-started/build-your-own-kubernetes-cluster.md "mention")
+
+## Cluster Managed Services <a href="#managed-services" id="managed-services"></a>
+
+**Managed Services** are key services that your application relies on to function. Kloudlite simplifies the process of setting up, managing, and maintaining these services, including:
+
+* **MongoDB** (available in both Cluster and Standalone modes)
+* **MySQL** (available in both Cluster and Standalone modes)
+* **Redis** (available in both Cluster and Standalone modes)
+
+These services are managed by Kloudlite to free you from manual setup and maintenance, ensuring your applications have the support they need. We're always working to add more services.
+
+[create-cluster-managed-service.md](getting-started/create-cluster-managed-service.md "mention")
 
 ## **Wireguard Integration**
 
